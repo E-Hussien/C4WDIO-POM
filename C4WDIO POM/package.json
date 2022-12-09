@@ -1,0 +1,19 @@
+{
+  "name": "c4wdio-pom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "author": "Elshaimaa Saleh",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^8.0.9",
+    "@wdio/cucumber-framework": "^8.0.9",
+    "@wdio/junit-reporter": "^8.0.8",
+    "@wdio/local-runner": "^8.0.9",
+    "@wdio/selenium-standalone-service": "^8.0.9"
+  }
+}

@@ -1,0 +1,13 @@
+module.exports={
+    UsernameInput:'#user-name',
+    PasswordInput:'#password',
+    LoginInput:'#login-button',
+    PageTitleSpan:'.title',
+    FilterMenu:'.product_sort_container',
+    ItemDiv:'//*[contains(text(),',
+    ItemDivLink:'#item_2_title_link',
+    AddToCartBtn:'#add-to-cart-sauce-labs-onesie',
+    ShoppingCartLink:'#shopping_cart_container',
+    ShoppingCartBadgeSpan:'.shopping_cart_badge',
+    RemoveItemBtn:'#remove-sauce-labs-onesie',
+}
